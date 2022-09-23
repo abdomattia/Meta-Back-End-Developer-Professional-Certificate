@@ -1,6 +1,6 @@
 # Meta-Back-End-Developer-Professional-Certificate
 
-## Programming Assignment: Functions, loops and data structures
+## Week 2 Functions, loops and data structures: Programming Assignment: Functions, loops and data structures
 
 ```python
 menu = {
